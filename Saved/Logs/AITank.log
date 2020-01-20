@@ -822,3 +822,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.20-21.32.58:656][812]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
 [2020.01.20-21.32.58:656][812]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000069 seconds (updated 0 objects)
 [2020.01.20-21.33.21:124][879]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={D96FA35B-4A3B-49EB-D38C-8D9E25170F4A}
+[2020.01.20-21.34.39:767][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.20-21.34.40:950][281]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.01.20-21.34.55:458][694]LogSlate: Window 'Source Control Login' being destroyed
